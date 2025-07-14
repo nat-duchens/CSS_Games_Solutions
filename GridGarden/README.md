@@ -9,7 +9,7 @@
 
 ![](./Images/Level_1.png)
 
-`b`
+🚨`grid-column-start: 3;`
 
 ---
 
@@ -17,7 +17,7 @@
 
 ![](./Images/Level_2.png)
 
-`b`
+🚨`grid-column-start: 5;`
 
 ---
 
@@ -25,7 +25,7 @@
 
 ![](./Images/Level_3.png)
 
-`b`
+🚨`grid-column-end: 4;`
 
 ---
 
@@ -33,7 +33,7 @@
 
 ![](./Images/Level_4.png)
 
-`b`
+🚨`grid-column-end: 2;`
 
 ---
 
@@ -41,7 +41,7 @@
 
 ![](./Images/Level_5.png)
 
-`b`
+🚨`grid-column-end: 5;`
 
 ---
 
@@ -49,7 +49,7 @@
 
 ![](./Images/Level_6.png)
 
-`b`
+🚨`grid-column-start: 4;`
 
 ---
 
@@ -57,7 +57,7 @@
 
 ![](./Images/Level_7.png)
 
-`b`
+🚨`grid-column-end: span 2;`
 
 ---
 
@@ -65,7 +65,7 @@
 
 ![](./Images/Level_8.png)
 
-`b`
+🚨`grid-column-end: span 5;`
 
 ---
 
@@ -73,7 +73,7 @@
 
 ![](./Images/Level_9.png)
 
-`b`
+🚨`grid-column-start: 3;`
 
 ---
 
@@ -81,7 +81,7 @@
 
 ![](./Images/Level_10.png)
 
-`b`
+🚨`grid-column: 4/6;`
 
 ---
 
@@ -89,7 +89,7 @@
 
 ![](./Images/Level_11.png)
 
-`b`
+🚨`grid-column: span 3/5;`
 
 ---
 
@@ -97,7 +97,7 @@
 
 ![](./Images/Level_12.png)
 
-`b`
+🚨`grid-row-start: 3;`
 
 ---
 
@@ -105,7 +105,7 @@
 
 ![](./Images/Level_13.png)
 
-`b`
+🚨`grid-row: 3/6;`
 
 ---
 
@@ -113,7 +113,8 @@
 
 ![](./Images/Level_14.png)
 
-`b`
+🚨`grid-column: 2;
+ grid-row: 5;`
 
 ---
 
@@ -121,7 +122,8 @@
 
 ![](./Images/Level_15.png)
 
-`b`
+🚨`grid-column: 2/6;
+ grid-row: 1/6;`
 
 ---
 
@@ -129,7 +131,7 @@
 
 ![](./Images/Level_16.png)
 
-`b`
+🚨`grid-area: 1/2/4/6;`
 
 ---
 
@@ -137,7 +139,7 @@
 
 ![](./Images/Level_17.png)
 
-`b`
+🚨`grid-area: 2/3/5/6;`
 
 ---
 
@@ -145,7 +147,7 @@
 
 ![](./Images/Level_18.png)
 
-`b`
+🚨`order: 1;`
 
 ---
 
@@ -153,7 +155,7 @@
 
 ![](./Images/Level_19.png)
 
-`b`
+🚨`order: -1;`
 
 ---
 
@@ -161,7 +163,7 @@
 
 ![](./Images/Level_20.png)
 
-`b`
+🚨`grid-template-columns: 50%;`
 
 ---
 
@@ -169,7 +171,7 @@
 
 ![](./Images/Level_21.png)
 
-`b`
+🚨`grid-template-columns: repeat(8, 12.5%);`
 
 ---
 
@@ -177,7 +179,7 @@
 
 ![](./Images/Level_22.png)
 
-`b`
+🚨`grid-template-columns: 100px 3em 40%;`
 
 ---
 
@@ -185,7 +187,7 @@
 
 ![](./Images/Level_23.png)
 
-`b`
+🚨`grid-template-columns: 1fr 5fr;`
 
 ---
 
@@ -193,7 +195,7 @@
 
 ![](./Images/Level_24.png)
 
-`b`
+🚨`grid-template-columns: 50px 1fr 1fr 1fr 50px;`
 
 ---
 
@@ -201,7 +203,7 @@
 
 ![](./Images/Level_25.png)
 
-`b`
+🚨`grid-template-columns: 75px 3fr 2fr;`
 
 ---
 
@@ -209,7 +211,7 @@
 
 ![](./Images/Level_26.png)
 
-`b`
+🚨`grid-template-rows: 50px repeat(3, 0) 1fr;`
 
 ---
 
@@ -217,7 +219,7 @@
 
 ![](./Images/Level_27.png)
 
-`b`
+🚨`grid-template: 60% 40% /200px;`
 
 ---
 
@@ -225,6 +227,6 @@
 
 ![](./Images/Level_28.png)
 
-`b`
+🚨`grid-template: 1fr 50px / 20% 1fr;`
 
 ---
