@@ -1,5 +1,5 @@
 # 🐸 Flexbox Froggy  
-===
+![Flexbox Froggy Gif](https://github.com/nat-duchens/CSS_Games_Solutions/blob/62522aef27dfea6c310840027f99658d24ae8052/FlexboxFroggy/Images/FlexboxFroggy.gif)
 
 ## 🧩 This file contains the solutions for solving all the levels.
 
