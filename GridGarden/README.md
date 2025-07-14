@@ -1,5 +1,6 @@
 # 🥕 Grid Garden Solutions
-===
+
+![Grid Garden Gif](https://github.com/nat-duchens/CSS_Games_Solutions/blob/6d845717919cf77bde6fa7e40f466228adec17d6/GridGarden/Images/GridGarden.gif?raw=true)
 
 ## 🧩 This file contains the solutions for solving all the levels.
 
@@ -113,17 +114,24 @@
 
 ![](./Images/Level_14.png)
 
-🚨`grid-column: 2;
- grid-row: 5;`
-
+🚨
+```css
+grid-column: 2;
+grid-row: 5;`
+```
 ---
 
 ### ⭐ Level 15
 
 ![](./Images/Level_15.png)
 
-🚨`grid-column: 2/6;
- grid-row: 1/6;`
+🚨
+```css
+grid-column: 2 / 6;
+grid-row: 1 / 6;
+```
+
+
 
 ---
 
